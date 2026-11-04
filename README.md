@@ -5,10 +5,6 @@
 
 # Kubernetes Certification Lab — CKA, CKAD and CKS
 
-<p align="center">
-  <img src="assets/cka.png" alt="Kubernetes certification lab for CKA, CKAD and CKS">
-</p>
-
 A hands-on lab and study guides for the Linux Foundation Kubernetes exams: [CKA](https://www.cncf.io/certification/cka/), [CKAD](https://www.cncf.io/certification/ckad/) and [CKS](https://www.cncf.io/certification/cks/).
 
 - **The lab** (`./cka`) gives you exam-style tasks on local kind clusters: practice sessions by domain or area, and timed mock exams weighted like each curriculum, graded against the live cluster state. All three exams draw from one pool of [questions](questions/).
